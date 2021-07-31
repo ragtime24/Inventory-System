@@ -3,6 +3,29 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
+        
+          "authors": [
+                {
+                    "name": "Danielle Oclarit",
+                    "email": "daniellealbesaoclarit@gmail.com"
+                },
+                {
+                    "name": "Paolo Olais",
+                    "email": "ragtime.pao@gmail.com"
+                },
+                {
+                    "name": "Honey Grace Nalimot",
+                    "email": "hnalimot@gmail.com"
+                },
+                {
+                    "name": "John Dave Nacorda",
+                    "email": "johndavenacorda88@gmail.com"
+                },
+                {
+                    "name": "Shenna Mae Polancos",
+                    "email": "polancos.shenna@gmail.com"
+                }
+            ],
     ],
     "content-hash": "445b2b56036f4fb3c253035674db75e4",
     "packages": [
@@ -157,28 +180,7 @@
             "license": [
                 "MIT"
             ],
-            "authors": [
-                {
-                    "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@gmail.com"
-                },
-                {
-                    "name": "Roman Borschel",
-                    "email": "roman@code-factory.org"
-                },
-                {
-                    "name": "Benjamin Eberlei",
-                    "email": "kontakt@beberlei.de"
-                },
-                {
-                    "name": "Jonathan Wage",
-                    "email": "jonwage@gmail.com"
-                },
-                {
-                    "name": "Johannes Schmitt",
-                    "email": "schmittjoh@gmail.com"
-                }
-            ],
+          
             "description": "PHP Doctrine Inflector is a small library that can perform string manipulations with regard to upper/lowercase and singular/plural forms of words.",
             "homepage": "https://www.doctrine-project.org/projects/inflector.html",
             "keywords": [
