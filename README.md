@@ -1,11 +1,16 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Inventory System
+
+Used to develop: Laravel, Composer, Git Bash, Xampp, VSCode, Bootstrap, Browser
+
+HOW TO RUN EMPLOYEE MANAGEMENT SYSTEM:
+
+- Clone the system from github by typing "git clone -b master --single-branch https://github.com/danielleoclarit12345/Inventory-System.git" in git bash
+- Make sure to place the cloned system inside C:\xampp\htdocs
+- Open MySQL Admin in the browser and create a database named "inventory"
+- Open vscode then open the Inventory-System folder
+- Type in the vscode terminal: composer install php artisan key:generate php artisan migrate php artisan serve
+- Open browser then copy paste this link http://localhost:8000/login
 
 Created this system :
 
